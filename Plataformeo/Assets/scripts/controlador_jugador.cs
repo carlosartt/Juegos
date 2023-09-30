@@ -78,7 +78,7 @@ public class controlador_jugador : MonoBehaviour
 
         if (enPiso)
         {
-            contSaltos = 2;
+            contSaltos = 1;
         }
     }
 }
